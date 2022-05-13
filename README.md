@@ -7,7 +7,7 @@ Welcome to CLI Flashcards! This flashcard game is played from the command-line, 
 ## Setup
 1. On the top right corner of this page, click the **Fork** button. 
 2. Clone down the forked repo
-3. Once you have cloned the repo, cd into the directory and install the library dependencies: ```npm install
+3. Once you have cloned the repo, cd into the directory and install the library dependencies: `npm install`
 4. Running `node index.js` from the root should result in the following message being displayed in your terminal:
   Your project is running...
   Welcome to FlashCards! You are playing with 30 cards. 
